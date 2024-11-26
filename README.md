@@ -1,5 +1,8 @@
 # ASCII-Codes
-These are the ascii Codes
+
+Connect to Internet before running
+
+These are the ascii cmd Codes
 
 code :  " curl ascii.live/<syntax> "
 
