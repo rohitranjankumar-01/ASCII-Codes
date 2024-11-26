@@ -1,6 +1,6 @@
 # ASCII-Codes
 
-Connect to Internet before running
+Connect to Internet before running these codes.
 
 These are the ascii cmd Codes
 
